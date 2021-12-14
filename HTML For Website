@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>TSA Website Design</title>
+</head>
+<body>
+  <section class="showcase">
+    <header>
+      <h2 class="logo"></h2>
+      <h2>Climate Change</h2>
+    </header>
+    <body>
+      <video
+      src="Y2Mate.is - Renewable Energy HD Stock Video  Free stock footage  Free HD Videos - No Copyright  Channel PMI-UXe-2xGYKGY-720p-1638388670315.mp4"
+      muted
+      loop
+      autoplay
+      >
+      </video>
+    <div class="overlay"></div>
+    <div class="text">
+      <h2>Pollution</h2>
+      <h3>The Effect</h3>
+      <p>
+        Pollution is a global problem across the world and what pollution is, is that there are contaminants that cause change in the environment. What those contaminants are is harmful materials damaging the quality of air, water, and land and some of the contaminants could be greenhouse gases, human activity, and even natural things like volcanic ash. Pollution is a serious issue we need to take into account. We can prevent pollution by reducing harmful gases that we let in the air, reduction of burning material like trees, recycling and reuse, etc. Become part of the journey to stop pollution today!
+      </p>
+      <p>Pollution is a serious problem we are facing and most of us are doing nothing about it and doing small things
+        in our daily life like using electricity efficiently could help prevent and stop pollution so we can do simple things like that.
+        We can also design things to fix this like possibly an air filteration system that converts co2 into clean air!
+    </p>
+    <p>About us: We are a team that is making a website in order to share about pollution and why it is a serious problem and ways we could prevent it.
+      We also dont have any social media or no followings as of currently.
+  </p>
+      <a href="https://www.youtube.com/watch?v=e6rglsLy1Ys">Video on this subject:</a>
+    </div>
+  </section>
+  <div class="menu">
+    <ul>
+      <li><a href="https://www.nationalgeographic.org/encyclopedia/pollution/#:~:text=Encyclopedic%20Entry%20Vocabulary-,Pollution%20is%20the%20introduction%20of%20harmful%20materials%20into%20the%20environment,air%2C%20water%2C%20and%20land."></a>Pollution Article</li>
+      <li><a href="https://en.wikipedia.org/wiki/Pollution">More information on Pollution</a></li>
+    </ul>
+    </body>
+    
+</body>
+</html>
